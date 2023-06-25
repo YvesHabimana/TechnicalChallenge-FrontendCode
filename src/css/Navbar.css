@@ -1,0 +1,63 @@
+
+.nav-container{
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+    display: flex;
+    top: 0px;
+    padding-top: 22px;
+
+}
+.empty{
+    width: 70%;
+}
+.icon
+{
+    padding-top: 20px;
+}
+
+.navbar-Dashboard:hover
+{
+    color: #F49C46;
+    font-weight: bold;
+}
+
+.navbar-Courses:hover
+{
+    color: #F49C46;
+    font-weight: bold;
+}
+
+.navbar-Users:hover
+{
+    color: #F49C46;
+    font-weight: bold;
+}
+
+.navbar-Settings:hover
+{
+    color: #F49C46;
+    font-weight: bold;
+}
+
+.navbar-Reports:hover
+{
+    color: #F49C46;
+    font-weight: bold;
+}
+
+.navbar-Discussions:hover
+{
+    color: #F49C46;
+    font-weight: bold;
+}
+
+.navbar-Announcements:hover
+{
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+
+
+
